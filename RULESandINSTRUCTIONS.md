@@ -25,7 +25,7 @@
 5. This is a test and we need to measure your skills.
 6. Please email back the result of your activity by providing the link of your GitHub project, where the files can be cloned and run locally. (coding.challenge@wondersco.com)
 
-## Insructions
+## Instructions
 1. You will create a `SignIn`, `Products`, `Profile`, `Guest` and `Admin` page
 2. User should enter username and password (`Basic Auth will do, no need to be secured just show us how authentication work`)
 3. User as an Admin (Logged In)
