@@ -26,7 +26,7 @@ $ yarn start-db
 ```
 
 ## Rules and Instructions
-- Check the rules and instruction [here](/RULESandINSTRUCTIONS.md)
+- Check the rules and instructions [here](/RULESandINSTRUCTIONS.md)
 
 ## Author
 ![Wonders Corporation](./src/assets/images/wonders-logo.png)
